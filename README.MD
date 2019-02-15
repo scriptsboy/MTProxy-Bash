@@ -4,7 +4,6 @@ MTProxy 是专门用于 Telegram 的代理软件。目前 Telegram 内部直接�
 
 # 截图
 ![1.png](1.png)
-![2.png](2.png)
 
 # 安装
 ```bash
